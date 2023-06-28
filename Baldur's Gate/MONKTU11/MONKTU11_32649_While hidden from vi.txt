@@ -1,0 +1,1 @@
+While hidden from view, you can attack from behind with a Thief class weapon and deal bonus backstab damage. Any attack made while hidden also receives a +4 bonus to attack and damage, regardless of the weapon used. 

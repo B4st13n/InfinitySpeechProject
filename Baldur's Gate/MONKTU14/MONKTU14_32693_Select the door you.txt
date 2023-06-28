@@ -1,0 +1,1 @@
+Select the door you wish to open, and if it isn't locked, it will open.

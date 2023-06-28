@@ -1,0 +1,1 @@
+To move through the world, select a point on screen and the selected character will make their best effort to reach it.

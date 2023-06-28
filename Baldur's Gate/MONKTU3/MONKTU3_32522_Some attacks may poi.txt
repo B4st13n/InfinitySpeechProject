@@ -1,0 +1,1 @@
+Some attacks may poison you, costing you health every second until the poison runs its course... or kills you. The poisoned have two options: First, they can drink an antidote or have a Slow Poison spell cast upon them. 

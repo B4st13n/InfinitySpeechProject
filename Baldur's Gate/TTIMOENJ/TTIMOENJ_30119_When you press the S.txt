@@ -1,0 +1,1 @@
+When you press the Special Abilities button, it should bring up all of your special skills. One of those skills will be marked "Set Snares." Simply press the button and then LEFT-CLICK on the point where you want to set the trap.

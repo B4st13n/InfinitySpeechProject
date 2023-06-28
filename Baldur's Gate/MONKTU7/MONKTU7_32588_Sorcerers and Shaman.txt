@@ -1,0 +1,1 @@
+Sorcerers and Shamans select one or more spells to learn at every new level. Once learned, these spells are available to cast for the rest of their career. 

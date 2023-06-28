@@ -1,0 +1,1 @@
+Alternatively, activate the Quick Loot system by selecting the red diamond button at the left side of the screen bottom action bar. This displays a scrolling list of all items on the ground nearby. Selecting an item icon moves it to your backpack without you needing to find the pile it comes from. 

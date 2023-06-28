@@ -1,0 +1,1 @@
+LEFT-CLICK on the weapon and you will grab it with your cursor. Drag it over to the character doll and LEFT-CLICK again. You can also drag it to a specific slot on your character.

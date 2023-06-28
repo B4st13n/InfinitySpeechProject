@@ -1,0 +1,1 @@
+We'll begin with the pause feature. Pause the game at any time with the SPACE BAR or by LEFT-CLICKING on the clock at the lower left of the screen.

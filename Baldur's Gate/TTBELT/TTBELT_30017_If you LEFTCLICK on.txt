@@ -1,0 +1,1 @@
+If you LEFT-CLICK on the stairs, your character will walk over to the stairs and move up to the next level.

@@ -1,0 +1,1 @@
+Every enemy you face will have a red circle around their feet, giving you a clear indicator you may attack them. 

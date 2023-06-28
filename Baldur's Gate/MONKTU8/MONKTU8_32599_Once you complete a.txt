@@ -1,0 +1,1 @@
+Once you complete a quest, all its relevant entries are marked as finished. All your quests, completed or not, are sorted by chapter, so you can recall exactly when you completed each one.

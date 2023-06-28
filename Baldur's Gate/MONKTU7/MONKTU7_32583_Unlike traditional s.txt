@@ -1,0 +1,1 @@
+Unlike traditional spellcasters, Sorcerers and Shamans can cast any spell they know if they have spell slots of that spell's level available. 

@@ -1,0 +1,1 @@
+Interaction with NPCs defaults to Talk for neutral targets and Attack for hostile ones. Talk to neutral characters (identified by blue circles), by tapping on them.

@@ -1,0 +1,1 @@
+To detect a trap, you must press the Find Traps button on the bottom of your screen. While it's active, any traps in the area that you detect will be highlighted in red. The Find Traps button is represented by an icon of four triangles.

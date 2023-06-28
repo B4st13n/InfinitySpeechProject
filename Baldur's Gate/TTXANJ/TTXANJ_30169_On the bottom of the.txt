@@ -1,0 +1,1 @@
+On the bottom of the item's history screen, you will find a button labeled "Identify." LEFT-CLICK on this. If whoever has the item in their inventory has an Identify spell memorized or has an Identify scroll, then the item will be identified.

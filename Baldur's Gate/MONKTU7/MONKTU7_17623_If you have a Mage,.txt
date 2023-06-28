@@ -1,0 +1,1 @@
+If you have a Mage, Cleric, or Druid in your party, your character must memorize spells using the Rest button on the Mage Book or Priest Scroll pages. To get to these pages, right-click on your character portrait and then select the book or scroll icon that appears on the left.

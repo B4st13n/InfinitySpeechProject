@@ -1,0 +1,1 @@
+If you receive a quest, you can review its details by opening your Journal and selecting the Quests tab. You'll find a list of your current quests; selecting one brings up a history of that quest's progress.

@@ -1,0 +1,1 @@
+Select the backpack button to access your inventory. Here, you can manage items your character carries, equipping weapons, armor, and other items as the need arises. To check the inventories of your companions, select their portraits. 

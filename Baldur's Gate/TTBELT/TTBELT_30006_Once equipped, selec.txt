@@ -1,0 +1,1 @@
+Once equipped, select the weapon by LEFT-CLICKING on the Quick Weapon slot at the bottom of the main gameplay screen. A green box will appear around the weapon that is in your character's hands; an orange box indicates combat mode.

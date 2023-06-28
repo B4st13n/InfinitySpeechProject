@@ -1,0 +1,1 @@
+To leave the area you're in, select the ground at the map's edge if you can reach it. The world map screen will appear, showing you all the locations you can travel to. Select your destination's icon on the map, then Travel. 

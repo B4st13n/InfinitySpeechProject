@@ -1,0 +1,1 @@
+THAC0, or "To Hit Armor Class Zero", is the number your attack roll must meet or exceed to successfully hit a creature with an Armor Class of 0. The lower your THAC0, the more likely you are to hit your target. 

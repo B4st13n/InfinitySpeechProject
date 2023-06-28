@@ -1,0 +1,1 @@
+To take items from a chest or bookcase, select the container you wish to loot. A window will appear, showing all the container's contents on the left and your inventory on the right. Select icons of items you want to transfer them to your backpack. 

@@ -1,0 +1,1 @@
+You have three Auto Save slots, and they are used in rotation. You can go back three auto saves, but no further. 

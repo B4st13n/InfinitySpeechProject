@@ -1,0 +1,1 @@
+Select the Stealth button to attempt to fade from view. If your check is successful, you'll be invisible for the next round. A new check is made every round. 

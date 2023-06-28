@@ -1,0 +1,1 @@
+Mages and Bards memorize spells by selecting the Mage Spellbook icon on the left side of the screen; Clerics, Druids, and high-level Paladins and Rangers do so from the Priest Scroll icon directly below the Spellbook. 

@@ -1,0 +1,1 @@
+A green circle around a character's feet indicates they are either a party member or creature you have summoned. You can select these characters to direct their actions. 

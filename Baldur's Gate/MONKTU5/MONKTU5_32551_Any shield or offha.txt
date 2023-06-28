@@ -1,0 +1,1 @@
+Any shield or off-hand weapon you have equipped is disabled if you equip a two-handed or ranged weapon that doesn't allow its use. But fear not; as soon as you equip a weapon that allows your off-hand item, it will be re-equipped. 

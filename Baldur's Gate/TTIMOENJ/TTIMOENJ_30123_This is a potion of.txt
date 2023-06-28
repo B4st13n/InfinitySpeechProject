@@ -1,0 +1,1 @@
+This is a potion of extra healing. To use a potion, simply RIGHT-CLICK on it, and then press "Drink." You can also place your potion in your Quick Item slot and use it from there.

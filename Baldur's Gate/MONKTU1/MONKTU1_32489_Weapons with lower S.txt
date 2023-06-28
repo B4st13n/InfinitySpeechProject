@@ -1,0 +1,1 @@
+Weapons with lower Speed Factors and spells with lower Casting Times can greatly improve your chances of survival—though you can cast only one spell at a time, no matter how quickly you cast it.

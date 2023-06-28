@@ -1,0 +1,1 @@
+Quest entries are entered in your Journal when a quest begins and removed when the quest ends. The entry then appears in the Done Quests section.

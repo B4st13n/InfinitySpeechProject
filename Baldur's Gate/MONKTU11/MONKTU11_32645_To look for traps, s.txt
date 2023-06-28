@@ -1,0 +1,1 @@
+To look for traps, select the Detect Traps button. You won't be able to do anything but move while you search, but if your Find Traps score is high enough, every round will reveal traps in your field of view. 

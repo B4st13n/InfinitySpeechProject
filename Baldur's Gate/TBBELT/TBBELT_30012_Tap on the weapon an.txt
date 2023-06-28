@@ -1,0 +1,1 @@
+Tap on the weapon and you will grab it. Tap on the character doll and the item will be equipped in the appropriate slot. You can also tap and drag an item to a specific slot.

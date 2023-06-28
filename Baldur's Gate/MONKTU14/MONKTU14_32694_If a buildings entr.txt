@@ -1,0 +1,1 @@
+If a building's entrance or exit is unblocked, you can enter or leave by selecting an outer doorway. Hover your mouse over any entrance or exit and the cursor will change to an open doorway icon with an arrow pointing through it.

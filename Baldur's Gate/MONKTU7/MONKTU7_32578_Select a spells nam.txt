@@ -1,0 +1,1 @@
+Select a spell's name to view its description. To memorize a spell, select the Memorize button. Each casting of a given spell must be prepared separately; to cast Magic Missile twice, you must memorize it twice. Choose higher-level spells using the tabs at the top of the screen. 

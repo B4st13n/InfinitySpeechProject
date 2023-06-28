@@ -1,0 +1,1 @@
+Certain Options settings can remove these circles during unpaused gameplay so that their presence does not distract from the mood of the game. The circles are always present when the game is paused, however.

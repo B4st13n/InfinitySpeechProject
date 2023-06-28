@@ -1,0 +1,1 @@
+On a store screen, items for sale are listed on the left; your own inventory is on the right. To buy or sell an item, select its name in the list. Selected item icons are highlighted. 

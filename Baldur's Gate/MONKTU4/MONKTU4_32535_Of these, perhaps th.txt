@@ -1,0 +1,1 @@
+Of these, perhaps the most directly relevant is your combat script. Choose the actions you wish the computer to make on your behalf when your character has no other commands. 

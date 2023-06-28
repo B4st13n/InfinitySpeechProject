@@ -1,0 +1,1 @@
+Detected traps are outlined in red. To disarm them, select the Thieving button, then the trap. If your Find Traps skill is high enough, the trap will be disarmed. 

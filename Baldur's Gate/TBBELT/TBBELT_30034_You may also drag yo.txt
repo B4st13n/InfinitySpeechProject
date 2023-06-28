@@ -1,0 +1,1 @@
+You may also drag your current world view in the Map screen. This is useful to jump to a far away location on the map without needing to scroll there.

@@ -1,0 +1,1 @@
+Your current field of view is outlined in green. Dragging the green outline moves your field of view around the map. Be aware that time is NOT paused while you view area maps.

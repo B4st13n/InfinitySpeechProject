@@ -1,0 +1,1 @@
+Equip items by dragging them into the appropriate slots around your character on the Inventory page.

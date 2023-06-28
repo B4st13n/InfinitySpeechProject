@@ -1,0 +1,1 @@
+Bards can inspire their comrades in combat by use of the Bard Song. They are able to move when singing, but any other action will end the song.

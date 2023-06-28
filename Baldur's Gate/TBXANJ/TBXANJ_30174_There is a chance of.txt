@@ -1,0 +1,1 @@
+There is a chance of failure when trying to learn a new spell. Failure means that the scroll is used up and the Mage does not learn the spell. I will not fail with this one, but in the real world, your Intelligence stat will determine whether you succeed or not.

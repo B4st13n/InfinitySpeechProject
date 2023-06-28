@@ -1,0 +1,1 @@
+Saving your game that way either overwrites an earlier save or saves your game to a new slot. If you're worried about saving space, you can delete old saves from this screen, too. 

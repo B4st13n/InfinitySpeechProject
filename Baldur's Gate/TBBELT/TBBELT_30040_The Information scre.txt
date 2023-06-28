@@ -1,0 +1,1 @@
+The Information screen shows your character's history and combat statistics.

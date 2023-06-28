@@ -1,0 +1,1 @@
+Mages and Bards learn spells by copying them from spell scrolls. In your Inventory, unknown spells appear with a green shaded overlay on the scroll's icon. 

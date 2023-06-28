@@ -1,0 +1,1 @@
+Combat flows in a series of rounds. Every creature on the battlefield exists in its own initiative round. This means that as you move and attack, your enemies are moving and attacking at the same time.

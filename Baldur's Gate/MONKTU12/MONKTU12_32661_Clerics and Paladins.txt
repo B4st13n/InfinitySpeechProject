@@ -1,0 +1,1 @@
+Clerics and Paladins can use their holy symbols to repel undead creatures. To use this ability, select the Turn Undead button. If your level is high enough, any undead creature in your field of view will flee while this ability is active. You might even destroy some weaker undead outright. 

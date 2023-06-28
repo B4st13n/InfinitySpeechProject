@@ -1,0 +1,1 @@
+Selecting the Detect Traps button keeps you alert for anything out of the ordinary. If there's a door or other object hidden from view, you'll find it automatically the same time you find traps. 

@@ -1,0 +1,1 @@
+On the Journal screen, you'll see a list of all the entries you've written, and options to Add or Edit others as you like. You can Delete an entry by selecting Edit Entry and removing the text. The entries are sorted chronologically. 

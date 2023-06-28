@@ -1,0 +1,1 @@
+Similar to the Inventory is the Character Record. Here you can view your character's proficiencies, skills, and statistics. Check your companions' abilities by selecting their portraits. 

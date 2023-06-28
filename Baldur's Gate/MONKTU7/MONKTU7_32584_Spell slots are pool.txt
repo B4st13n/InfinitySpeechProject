@@ -1,0 +1,1 @@
+Spell slots are pooled by spell level; if you run out of level 3 spells, you can still cast level 2 spells. Resting restores all spell slots. 

@@ -1,0 +1,1 @@
+A character with a blue circle around their feet is neither friendly nor hostile. You can freely initiate dialogue by selecting them. 

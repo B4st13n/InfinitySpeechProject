@@ -1,0 +1,1 @@
+While defending, your character attacks any creature that approaches the specified area or attacks the protected character. 

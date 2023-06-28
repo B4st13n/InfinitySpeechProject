@@ -1,0 +1,1 @@
+Selecting the clock button at the bottom of the menu bar on the screen's left side pauses the game, except in special circumstances, such as cutscenes. This gives you time to reflect on your next move.

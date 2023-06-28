@@ -1,0 +1,1 @@
+When you go down the stairs, the game will AUTO SAVE. This happens whenever you move from one major area to the next. You can therefore restart your game from the point where you made your last major area transition.

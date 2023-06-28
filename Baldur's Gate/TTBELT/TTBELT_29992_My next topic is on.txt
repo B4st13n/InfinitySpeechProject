@@ -1,0 +1,1 @@
+My next topic is on how to differentiate enemies from people you want to talk to. Enemies have red circles; people you want to talk to have blue circles.

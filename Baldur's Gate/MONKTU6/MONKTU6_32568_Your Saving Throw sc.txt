@@ -1,0 +1,1 @@
+Your Saving Throw scores are a bit like your THAC0; they provide a target number you must meet or beat to avoid the worst outcomes of spells or other effects. As with THAC0, a lower score is best.

@@ -1,0 +1,1 @@
+To loot items from fallen enemies, select the pile of goods they left on the ground. A window will show items you can take on the left and your general inventory on the right. Select icons of items you wish to pick up, and they will be transferred to your backpack. 

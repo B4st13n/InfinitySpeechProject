@@ -1,0 +1,1 @@
+For Clerics, Druids, and high-level Paladins and Rangers, your spell allotment, determined by class and alignment, is fixed. When you gain access to spells of a new level, you learn all your spells of that level. 

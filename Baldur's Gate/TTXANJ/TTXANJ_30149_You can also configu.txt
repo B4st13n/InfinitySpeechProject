@@ -1,0 +1,1 @@
+You can also configure Quick Spells by RIGHT-CLICKING on a Quick Spell slot. This summons a list of memorized spells to choose. If no spells are listed, the character either does not have any spells memorized or cannot cast until higher levels.

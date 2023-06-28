@@ -1,0 +1,1 @@
+Letters and notes can be copied to your Journal by selecting Copy Note on the letter's description screen. Notes copied in this way are stored among your journal entries. 

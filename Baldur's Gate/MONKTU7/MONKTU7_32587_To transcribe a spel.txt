@@ -1,0 +1,1 @@
+To transcribe a spell in your spellbook, access the scroll's description from the Inventory screen. Select the Write Magic button, and—if your attempt is successful—the spell will be inscribed in your spellbook. The scroll is consumed in the process; if you fail, you'll need another scroll before trying again.

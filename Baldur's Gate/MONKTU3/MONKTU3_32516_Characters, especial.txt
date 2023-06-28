@@ -1,0 +1,1 @@
+Characters, especially those with low Constitutions, grow tired after going too long without rest. As fatigue increases, they accumulate a luck penalty which negatively impacts all attack rolls and saving throws. 

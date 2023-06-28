@@ -1,0 +1,1 @@
+A purple circle appears around your character's feet if they are inaccessible, usually for the purposes of a cutscene or similar event where you are unable to use your full party. 

@@ -1,0 +1,1 @@
+If you're a spellcaster with one or more Quick Spell slots, right-clicking one with your mouse will allow you to fill each with a single spell from your arsenal. 

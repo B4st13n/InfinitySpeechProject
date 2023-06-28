@@ -1,0 +1,1 @@
+If you've chosen an invalid destination, the character will stay where they are. You cannot set a destination in a map area you haven't yet explored.

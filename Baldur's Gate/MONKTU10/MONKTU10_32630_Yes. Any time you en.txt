@@ -1,0 +1,1 @@
+Yes. Any time you enter a major plot area, or leave a world map area, your game is saved. These Auto Saves are listed alongside your Quick Saves and manually created saved games. 

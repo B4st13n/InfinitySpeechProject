@@ -1,0 +1,1 @@
+To purchase selected items, select the Buy button. If you can't afford everything, this button will be disabled. To sell inventory items, select Sell. 

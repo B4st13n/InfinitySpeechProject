@@ -1,0 +1,1 @@
+Scroll left and right to view your memorized spells. Once you find the spell you want to cast, select its icon. Many spells require you to select a target creature or location before casting. 
