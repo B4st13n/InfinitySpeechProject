@@ -7,3 +7,6 @@
 /.vs/slnx.sqlite
 /.vs/VSWorkspaceState.json
 *.wsuo
+**/DLG/*.DLG
+**/WAV/*.WAV
+**/TLK/*.TLK
