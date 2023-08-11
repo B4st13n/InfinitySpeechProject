@@ -1,0 +1,1 @@
+You haven't cast a spell yet. Tap my Cast Spell button, choose a healing spell (Cure Light Wounds), and tap on your target. If you don't have the spell memorized, then you can rest to memorize it.
